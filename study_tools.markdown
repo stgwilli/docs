@@ -72,5 +72,6 @@ A large majority of computer science based education is not really equipping pro
 Books are a great resource for getting differing viewpoints on techniques and practices. My recommendation while reading books (especially technical) is to focus on active reading techniques that allow you to implement what you are reading as soon as possible. You want to give yourself the opportunity to build your own mental models for how the concepts apply, and I believe that a large majority of technical information you read is best distilled in your editor writing code
 and playing around with the ideas.  
 I have put together a small book list that I have created to focus on some fundamental areas of both software engineering and computer science. Granted it definitely leans heavier into the realm of software engineering that raw computer science, but the books that are on there are a great starting point for helping you to further the building of a solid core.  
-Check out the book list here:
+Check out the book list here:   
+
   * [Build a solid programming core](http://www.amazon.com/Building-A-Solid-Programming-Core/lm/R39PW96KKNBR79/ref=cm_lm_byauthor_title_full)
