@@ -13,7 +13,8 @@ It is very important to remember that the majority of peoples brains works best 
 #The resources
 
 ##[Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/main/reading)
-This is really what this entire document is about, the art of crafting a long lasting career as a software professional. There is a huge wealth of information that the craftsmanship site links to. All of it is meant to give you ideas of what it means to be a software craftsman. Some of my favourites from the reading list are:
+This is really what this entire document is about, the art of crafting a long lasting career as a software professional. There is a huge wealth of information that the craftsmanship site links to. All of it is meant to give you ideas of what it means to be a software craftsman. Some of my favourites from the reading list are:  
+
   * [Teach yourself programming in 10 years](http://norvig.com/21-days.html)
 
 ##[Lumosity](http://www.lumosity.com/) - Train Your Brain - 10 minutes a day
