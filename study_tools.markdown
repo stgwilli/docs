@@ -1,10 +1,10 @@
-#Develop With Passion® - Study Tools and Katas
+#Develop With Passion® - Becoming a software craftsman
 
-The following document outlines a collection of resources which you can use to make yourself a considerably better computer programmer.  
+The following document outlines a collection of resources which you can use to help you pursue the art of software craftsmanship.  
 
 There is a wealth of material in here that will take a significant amount of time to work through. The goal is not to complete it in a certain amount of time; rather to use the resources as a way to allow you to continually and incrementally work on honing your skills.  
 
-Some of the resources in here focus on areas related to general computer science and software engineering, others are resources that are there to help you further develop you mental capabilities.  
+Some of the resources in here focus on areas related to general computer science and software engineering, others are resources that are there to help you improve more general areas of your skillset, including tuning up the old gray matter!!
 
 ##Work Incrementally And Consistently  
 
@@ -75,3 +75,5 @@ I have put together a small book list that I have created to focus on some funda
 Check out the book list here:   
 
   * [Build a solid programming core](http://www.amazon.com/Building-A-Solid-Programming-Core/lm/R39PW96KKNBR79/ref=cm_lm_byauthor_title_full)
+
+[Develop With Passion®](http://www.developwithpassion.com)
